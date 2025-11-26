@@ -27,18 +27,6 @@ The result is a simple but surprisingly deep turn based battle engine.
 
 ---
 
-## 🧱 Project Structure
-PokemonBattleProject/
-│
-├── Type.java
-├── Move.java
-├── Pokemon.java
-├── Battle.java
-├── Game.java
-└── README.md
-
----
-
 ## 🎮 Features
 
 - Four playable Pokemon:
